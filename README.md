@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanHernandezMorani" alt="JuanHernandezMorani" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanHernandezMorani" alt="JuanHernandezMorani" /></a> </p>
 
 - 🌱 I’m currently learning Java and MID Stack.
 - 💬 Ask me about React,NodeJS,SQL,Express,CSS,HTML,Javascript
