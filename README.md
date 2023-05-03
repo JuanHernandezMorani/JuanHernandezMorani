@@ -4,6 +4,8 @@
 
 <p align="center"> <a href="https://github.com/JuanHernandezMorani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElChetoMDQ97" alt="JuanHernandezMorani" align="center"/></a> </p>
 
+<p align="center"> <a href="https://github.com/JuanHernandezMorani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanHernandezMorani" alt="JuanHernandezMorani" align="center"/></a> </p>
+
 - 🌱 I’m currently learning Java and MID Stack.
 - 💬 Ask me about React,NodeJS,SQL,Express,CSS,HTML,Javascript and more.
 - 📫 My mail: juan.hernandez.morani@gmail.com
