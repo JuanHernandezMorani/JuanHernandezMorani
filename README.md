@@ -2,9 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="center"> <a href="https://github.com/JuanHernandezMorani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanHernandezMorani" alt="JuanHernandezMorani" align="center"/></a> </p>
-
-- 🌱 I’m currently learning Java and MID Stack.
+- 🌱 I’m currently learning C#.
 - 💬 Ask me about React,NodeJS,SQL,Express,CSS,HTML,Javascript and more.
 - 📫 My mail: juan.hernandez.morani@gmail.com
 - 📱 My number: +54 9 223 5823177
