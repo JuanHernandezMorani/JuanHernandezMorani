@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about React,NodeJS,SQL,Express,CSS,HTML,Javascript and more.
 - 📫 My mail: juan.hernandez.morani@gmail.com
-- 📱 My number: +54 9 223 5823177
+- 📱 My number: +54 9 351 2513177
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
