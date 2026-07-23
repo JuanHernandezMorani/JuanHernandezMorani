@@ -3,9 +3,8 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 My portfilio: https://portfolio-juan-braian-hernandez-moranis-projects.vercel.app/.
-- 💬 Ask me about Python, React,NodeJS,SQL,Express,CSS,HTML,Javascript and more.
+- 💬 Ask me about Python, React, NodeJS, SQL, Express, CSS, HTML, Javascript and more.
 - 📫 My mail: juan.hernandez.morani@gmail.com
-- 📱 My number: +598 096 273 445
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
